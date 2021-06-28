@@ -1,0 +1,28 @@
+.clickBox {
+  cursor: pointer;
+}
+.selected {
+  text-decoration: underline;
+  font-weight: bold;
+}
+.teacher-div {
+  display: flex;
+  flex-direction: row;
+}
+.nameBox {
+  background: linear-gradient(135deg, #185a9d, #43cea2);
+}
+.table-div {
+  width: fit-content !important;
+  height: fit-content;
+  background: white;
+  padding: 50px;
+}
+.side-padding {
+  padding: 100px 220px 100px 50px;
+}
+.header-div {
+  display: inline-flex;
+  justify-content: space-between;
+  margin-bottom: 3rem;
+}

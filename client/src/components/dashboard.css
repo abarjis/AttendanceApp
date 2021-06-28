@@ -1,0 +1,25 @@
+.dashboard-div {
+  text-align: center;
+  display: flex;
+  width: fit-content;
+  justify-content: center;
+  text-align: left;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+.main-dashboard {
+  display: flex;
+  flex-direction: column;
+  padding: 100px;
+  background: linear-gradient(135deg, #185a9d, #43cea2);
+}
+.details {
+  background: white;
+  padding: 50px;
+  margin-right: 50px;
+}
+.attendancebutton {
+  display: block !important;
+  width: 100%;
+}

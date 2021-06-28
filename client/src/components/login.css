@@ -1,0 +1,59 @@
+.main-login {
+   display: flex;
+   padding: 100px;
+   background: linear-gradient( 135deg, #185a9d, #43cea2);
+}
+.checkboxes {
+  display: inline-flex;
+  width: 100%;
+}
+.dropdown{
+  display: inline-flex;
+  width: 45%;
+}
+.dropdowns {
+  display: flex;
+ justify-content: space-between;
+}
+.student-checkbox {
+  flex-wrap: nowrap !important;
+}
+.input-group-text{
+    background-color: #AEC6CF !important;
+    border: 1px solid #AEC6CF !important;
+}
+.errorclass{
+  color: red
+}
+.loginbutton{
+  display: block !important;
+  margin: auto;
+    width: 50%;
+
+}
+.login{
+  width: 100%;
+  background: white;
+  padding: 25px;
+}
+.email-input > div {
+  width: 100%;
+}
+.password-input{
+  width: 100%;
+  /* -webkit-text-security: disc; */
+}
+.text-login{
+  margin-left: 50px;
+    margin-right: 150px;
+}
+.appbar{
+  background: linear-gradient( 135deg, #185a9d, #43cea2);
+}
+.tab-button{
+  width: 50%;
+  font-weight: bold;
+}
+.tab-button > span{
+  font-weight: bold;
+}
